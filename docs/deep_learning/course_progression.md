@@ -5,7 +5,7 @@ If you would like a smooth transition in learning deep learning concepts, you ne
 
 
 ## 1. Practical Deep Learning with PyTorch
-* [x] Matrices
+
 * [x] Gradients
 * [x] Linear Regression
 * [x] Logistic Regression
